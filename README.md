@@ -1,4 +1,4 @@
-## Sentiment-Analysis-of-Yelp-Reviews
+## Sentiment-Classification-of-Yelp-Reviews
 ### Overview
 1.	Language:   Jupyter Notebook Python 3
 2.	Dataset
